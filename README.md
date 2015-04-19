@@ -1,2 +1,2 @@
 Exercises or examples in "Structure and Interpretation of Computer Programs"(SICP).
-Implemented in [Clojure](clojure.org).
+Implemented in [Clojure](http://clojure.org).
